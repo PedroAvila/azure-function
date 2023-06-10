@@ -1,0 +1,15 @@
+D:\AzureFunction\Example\Example.ContratoRepositorio\bin\Debug\net6.0\Example.ContratoRepositorio.deps.json
+D:\AzureFunction\Example\Example.ContratoRepositorio\bin\Debug\net6.0\Example.ContratoRepositorio.dll
+D:\AzureFunction\Example\Example.ContratoRepositorio\bin\Debug\net6.0\Example.ContratoRepositorio.pdb
+D:\AzureFunction\Example\Example.ContratoRepositorio\bin\Debug\net6.0\Example.EntidadesDominio.dll
+D:\AzureFunction\Example\Example.ContratoRepositorio\bin\Debug\net6.0\Example.EntidadesDominio.pdb
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.csproj.AssemblyReference.cache
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.AssemblyInfoInputs.cache
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.AssemblyInfo.cs
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.csproj.CoreCompileInputs.cache
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.csproj.CopyComplete
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.dll
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\refint\Example.ContratoRepositorio.dll
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\Example.ContratoRepositorio.pdb
+D:\AzureFunction\Example\Example.ContratoRepositorio\obj\Debug\net6.0\ref\Example.ContratoRepositorio.dll

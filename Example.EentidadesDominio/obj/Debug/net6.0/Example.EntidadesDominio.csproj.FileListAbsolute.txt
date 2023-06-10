@@ -1,0 +1,12 @@
+D:\AzureFunction\Example\Example.EentidadesDominio\bin\Debug\net6.0\Example.EntidadesDominio.deps.json
+D:\AzureFunction\Example\Example.EentidadesDominio\bin\Debug\net6.0\Example.EntidadesDominio.dll
+D:\AzureFunction\Example\Example.EentidadesDominio\bin\Debug\net6.0\Example.EntidadesDominio.pdb
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\Example.EntidadesDominio.csproj.AssemblyReference.cache
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\Example.EntidadesDominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\Example.EntidadesDominio.AssemblyInfoInputs.cache
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\Example.EntidadesDominio.AssemblyInfo.cs
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\Example.EntidadesDominio.csproj.CoreCompileInputs.cache
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\Example.EntidadesDominio.dll
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\refint\Example.EntidadesDominio.dll
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\Example.EntidadesDominio.pdb
+D:\AzureFunction\Example\Example.EentidadesDominio\obj\Debug\net6.0\ref\Example.EntidadesDominio.dll
